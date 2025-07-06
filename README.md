@@ -15,12 +15,12 @@ TRABALHO_EXCLUSAO_MUTUA/
 │   ├── main.ts
 │   ├── coordenador.ts
 │   ├── terminal.ts
-│   ├── utils.ts
 │   └── tipos.ts
-└── processo/
-    ├── main.ts
-    ├── processo.ts
-    └── utils.ts
+├── processo/
+│   ├── main.ts
+│   ├── processo.ts
+│   
+└── utils.ts   
 ```
 
 ---
